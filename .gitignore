@@ -161,4 +161,4 @@ cython_debug/
 
 
 
-OpenAI Secret Key.env
+Environment Variables.env

@@ -1,4 +1,11 @@
 ipykernel
 python-dotenv
 langchain
+langchain-core
+langchain-community
+langchain-experimental
+langchain-cli
+langsmith
+langserve[all]
+langchain-openai
 openai
