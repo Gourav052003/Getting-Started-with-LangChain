@@ -10,3 +10,4 @@ langserve[all]
 langchain-openai
 openai
 beautifulsoup4
+faiss-cpu
