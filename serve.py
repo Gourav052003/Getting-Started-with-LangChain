@@ -18,7 +18,6 @@ from langchain.pydantic_v1 import BaseModel, Field
 from langchain_core.messages import BaseMessage
 from langserve import add_routes
 
-import os
 from pathlib import Path
 from dotenv import load_dotenv
 
